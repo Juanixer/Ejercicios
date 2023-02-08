@@ -7,7 +7,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Ej2-1/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Ej2-2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Ej2-3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ej2-4/src" isTestSource="false" />
     </content>
+    <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
