@@ -5,13 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e6cf5bc-8aab-41bd-b25c-0e43b4079d23" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Ej2-6/src/Desviación.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ej2-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ej2-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ej2-2/src/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ej2-2/src/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ej2-4/src/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ej2-4/src/Lista.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ejs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejs/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejs/Factorial.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockDockBuild.Settings">
+    <option name="codePath" value="$PROJECT_DIR$" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -40,7 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "TODO_SCOPE": "All Places",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Tuvieja/Desktop/Uni 2 Año/2 cuatri/Progra II/Practicas",
+    "last_opened_file_path": "C:/Users/Tuvieja/Desktop/Uni 2 Año/2 cuatri/Progra II/Ejercicios",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -48,6 +56,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -58,17 +67,16 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Potencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Potencia" />
+    <configuration name="Desviación" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desviación" />
       <module name="Ejs" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ej2-1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Potencia" />
+        <item itemvalue="Application.Desviación" />
       </list>
     </recent_temporary>
   </component>
@@ -90,10 +98,26 @@
       <workItem from="1675865232128" duration="63000" />
       <workItem from="1675865304427" duration="220000" />
       <workItem from="1675865897870" duration="2765000" />
+      <workItem from="1675944968165" duration="2197000" />
+      <workItem from="1676014741819" duration="56000" />
+      <workItem from="1676014816503" duration="51000" />
+      <workItem from="1676015108428" duration="210000" />
+      <workItem from="1676217631008" duration="52000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c88cd9e2-c6af-4b26-abb6-b440f9b5ed1f" name="Changes" comment="" />
+    <list default="true" id="c88cd9e2-c6af-4b26-abb6-b440f9b5ed1f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ej2-4/src/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ej2-4/src/Lista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Ejs/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Ejs/Factorial.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Tuvieja/Desktop/Uni 2 Año/2 cuatri/Progra II/Ejs",
+    "last_opened_file_path": "C:/Users/Tuvieja/Desktop/Uni 2 Año/2 cuatri/Progra II/Ejercicios/Ej2-5",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,6 +58,7 @@
       <workItem from="1675844871913" duration="882000" />
       <workItem from="1675850440382" duration="328000" />
       <workItem from="1675864997637" duration="130000" />
+      <workItem from="1676018387600" duration="165000" />
     </task>
     <servers />
   </component>
