@@ -4,14 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e6cf5bc-8aab-41bd-b25c-0e43b4079d23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ej2-6/src/Desviación.java" afterDir="false" />
+    <list default="true" id="4e6cf5bc-8aab-41bd-b25c-0e43b4079d23" name="Changes" comment="Actualizar a github">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ej2-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ej2-2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ej2-2/src/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ej2-2/src/Factorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ej2-4/src/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ej2-4/src/Lista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ej2-5/src/Media.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ej2-5/src/Media.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ej2-6/src/Desviación.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ej2-6/src/Desviación.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ejs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejs.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejs/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejs/Factorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejs/Desviación.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejs/Desviación.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejs/Lista.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejs/Lista.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejs/Media.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejs/Media.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,24 +43,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TODO_SCOPE": "All Places",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Tuvieja/Desktop/Uni 2 Año/2 cuatri/Progra II/Ejercicios",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Tuvieja/Desktop/Uni 2 Año/2 cuatri/Progra II/Ejercicios&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Tuvieja\Desktop\Uni 2 Año\2 cuatri\Progra II\Ejs\Ej2-1\src" />
@@ -102,8 +103,26 @@
       <workItem from="1676014741819" duration="56000" />
       <workItem from="1676014816503" duration="51000" />
       <workItem from="1676015108428" duration="210000" />
-      <workItem from="1676217631008" duration="52000" />
+      <workItem from="1676217631008" duration="373000" />
+      <workItem from="1676281832758" duration="2493000" />
+      <workItem from="1676284451950" duration="990000" />
+      <workItem from="1676292914148" duration="482000" />
     </task>
+    <task id="LOCAL-00001" summary="Actualizar a github">
+      <created>1676217805268</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676217805268</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Actualizar a github">
+      <created>1676217901878</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676217901878</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,5 +138,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Actualizar a github" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualizar a github" />
   </component>
 </project>

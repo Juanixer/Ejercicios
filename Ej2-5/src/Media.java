@@ -1,18 +1,19 @@
-import java.util.List;
+
 
 public class Media{
-    static List<Integer> numeros = List.of(2, 4, 6, 8, 10);
-    public static int sumList(List<Integer> lista, int indice) {
-        if (indice == lista.size()) {
-            return 0;
+
+    public static double sum(double[]numeros , int indice) {
+        if (indice == numeros.length - 1) {
+            return numeros[indice];
         } else {
-            return lista.get(indice) + sumList(lista, indice + 1);
+            return numeros[indice] + sum(numeros,indice + 1);
         }
     }
 
     public static void main(String[] args) {
-        int sum = sumList(numeros, 0);
-        int media = sum/ numeros.size();
-        System.out.println("La media aritmética de los números es: " + media);
+        double [] numeros = {1, 2, 3, 4, 5};
+        double suma = sum(numeros, 0);
+        double media = suma / numeros.length;
+        System.out.println("La media de los numeros es: " + media);
     }
 }

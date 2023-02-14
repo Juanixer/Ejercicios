@@ -1,23 +1,35 @@
-import java.util.List;
 
-public class Desviación {
 
-    static List<Integer> numeros = List.of(2, 4, 6, 8);
+public class Desviación{
 
-    public static int sumList(List<Integer> lista, int indice) {
-        if (indice == lista.size()) {
-            return 0;
+    public static double sum(double[]numeros , int indice) {
+        if (indice == numeros.length - 1) {
+            return numeros[indice];
         } else {
-            return lista.get(indice) + sumList(lista, indice + 1);
+            return numeros[indice] + sum(numeros,indice + 1);
         }
     }
 
+    public static double sumaCuadrados(double[]numeros , int indice) {
+        if (indice == numeros.length - 1) {
+            return numeros[indice] * numeros[indice];
+        } else {
+            return numeros[indice]*numeros[indice] + sumaCuadrados(numeros,indice + 1);
+        }
+    }
+
+    public static double desviacion(double[]numeros){
+        double suma = sum(numeros, 0);
+        double media = suma / numeros.length;
+        double cuadrados = sumaCuadrados(numeros, 0);
+        double varianza = (cuadrados / numeros.length) - media*media;
+        double desviacion = Math.sqrt(varianza);
+        return desviacion;
+    }
+
+
     public static void main(String[] args) {
-        int sum = sumList(numeros, 0);
-        int media = sum / numeros.size();
-        double desviacion = Math.sqrt((sum - media)^2/(numeros.size() - 1));
-        System.out.println("La desviación típica de los números es: " + desviacion);
-
-
+        double [] numeros = {1, 2, 3, 4, 5};
+        System.out.println("La desviación de los numeros es: " + desviacion(numeros));
     }
 }
