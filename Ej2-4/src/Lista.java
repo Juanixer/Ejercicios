@@ -1,5 +1,3 @@
-
-
 public class Lista{
 
     public static double sum(double[]numeros , int indice) {
